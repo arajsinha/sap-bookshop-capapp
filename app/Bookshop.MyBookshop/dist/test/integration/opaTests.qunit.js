@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","Bookshop/MyBookshop/test/integration/FirstJourney","Bookshop/MyBookshop/test/integration/pages/BooksList","Bookshop/MyBookshop/test/integration/pages/BooksObjectPage"],function(o,e,s,t){"use strict";var o=new o({launchUrl:sap.ui.require.toUrl("Bookshop/MyBookshop")+"/index.html"});o.run({pages:{onTheBooksList:s,onTheBooksObjectPage:t}},e.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

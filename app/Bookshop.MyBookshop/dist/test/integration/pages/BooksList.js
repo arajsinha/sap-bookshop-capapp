@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(o){"use strict";var s={actions:{},assertions:{}};return new o({appId:"Bookshop.MyBookshop",componentId:"BooksList",entitySet:"Books"},s)});
+//# sourceMappingURL=BooksList.js.map
