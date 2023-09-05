@@ -2,7 +2,7 @@
 
 Welcome to your new project.
 
-It contains these folders and files, following our recommended project layout: Test
+It contains these folders and files, following our recommended project layout: Testing
 
 File or Folder | Purpose
 ---------|----------
