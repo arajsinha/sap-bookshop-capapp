@@ -34,3 +34,4 @@ mta_archives/
 build/ui-deployer/
 build/dist/
 env/
+package.json
